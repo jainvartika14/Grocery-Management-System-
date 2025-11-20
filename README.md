@@ -1,4 +1,4 @@
-# Grocery-Management-System-
+# Grocery Management System
 This project is a simple Python-based Grocery Management System designed to help shopkeepers manage their store digitally. The application uses a menu-driven interface so that even a non-technical user can easily navigate through different operations. All the information, such as products, stock levels, and sales details, is stored in JSON files, making the system lightweight and easy to maintain without requiring a database.
 
 The system allows the shopkeeper to manage products by adding new items, updating existing ones, deleting products, and viewing the complete product list. Every change in product details is immediately stored into the JSON file to ensure data accuracy. When generating bills, the system automatically calculates the total amount, quantity, and applicable taxes. After a successful purchase, the stock is updated automatically, and the sale is recorded for future reference.
